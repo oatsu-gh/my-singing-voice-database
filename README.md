@@ -22,10 +22,10 @@ CrazY **[twitter](https://twitter.com/crazy_toho)**
 
 ### ファイル名のメモ
 
-- 00_200000_0000.wav
+- musicname.wav
   - 録音そのままのファイル
   - 24bit/**176.4kHz**
-- mucicname_denoise.flac 
+- musicname_denoise.flac 
   - ノイズ除去&ローカット後のファイル
   - 24bit/96kHz
 - musicname_pitch_fixed.flac
@@ -49,5 +49,7 @@ CrazY **[twitter](https://twitter.com/crazy_toho)**
 ### ラベリング
 
 - setParam 200412
+- UTAU
+- Synthesizer V
 - oto2lab
 
